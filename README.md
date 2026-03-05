@@ -35,9 +35,9 @@ Strengthen coding fundamentals using:
 
 ---
 
-# Part 1 — Product Inventory (Array of Objects)
+## Part 1 — Product Inventory (Array of Objects)
 
-## Product Data Shape
+### Product Data Shape
 
 Each product object contains:
 
